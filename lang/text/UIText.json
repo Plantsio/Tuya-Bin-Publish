@@ -2,1505 +2,1505 @@
   "ui_boot_waking_up": {
     "index": 0,
     "content": {
-      "en": "Waking Ivy",
       "zh": "正在唤醒 Ivy",
-      "jp": "Ivyを目覚めさせています"
+      "jp": "Ivyを\n起こしています",
+      "en": "Waking Ivy"
     }
   },
   "ui_boot_connect_to_net": {
     "index": 1,
     "content": {
-      "en": "Ivy is connecting to WiFi...",
       "zh": "Ivy 正在连接无线网络...",
-      "jp": "IvyはWifiに接続しています…"
+      "jp": "IvyはWifiに接続しています…",
+      "en": "Ivy is connecting to WiFi..."
     }
   },
   "ui_boot_connect_succ": {
     "index": 2,
     "content": {
-      "en": "Ivy got WiFi connection.",
       "zh": "Ivy 连接网络成功。",
-      "jp": "IvyはWifiに接続しました"
+      "jp": "IvyはWifiに接続しました",
+      "en": "Ivy got WiFi connection."
     }
   },
   "ui_boot_connect_fail": {
     "index": 3,
     "content": {
-      "en": "Ivy failed to connect to WiFi.",
       "zh": "Ivy 连接网络失败。",
-      "jp": "IvyはWifiの接続に失敗しました"
+      "jp": "IvyはWifiの接続に失敗しました",
+      "en": "Ivy failed to connect to WiFi."
     }
   },
   "ui_boot_activating": {
     "index": 4,
     "content": {
-      "en": "Ivy is activating.",
       "zh": "Ivy 正在激活...",
-      "jp": "Ivyを起動しています…"
+      "jp": "Ivyを起動しています…",
+      "en": "Ivy is activating."
     }
   },
   "ui_boot_activated": {
     "index": 5,
     "content": {
-      "en": "Ivy is activated.",
       "zh": "Ivy 激活成功。",
-      "jp": "Ivyは起動しました"
+      "jp": "Ivyは起動しました",
+      "en": "Ivy is activated."
     }
   },
   "ui_boot_activate_fail": {
     "index": 6,
     "content": {
-      "en": "Ivy failed to activate.",
       "zh": "Ivy 激活失败。",
-      "jp": "Ivyの起動に失敗しました"
+      "jp": "Ivyの起動に失敗しました",
+      "en": "Ivy failed to activate."
     }
   },
   "ui_boot_tuning_time": {
     "index": 7,
     "content": {
-      "en": "Ivy is tuning its watch...",
       "zh": "Ivy 正在同步时间...",
-      "jp": "Ivyは時間を同期しています…"
+      "jp": "Ivyは時間を同期しています…",
+      "en": "Ivy is tuning its watch..."
     }
   },
   "ui_boot_tune_succ": {
     "index": 8,
     "content": {
-      "en": "Ivy synchronized its watch.",
       "zh": "Ivy 同步时间成功。",
-      "jp": "Ivyは時間の同期に成功しました"
+      "jp": "Ivyは時間の同期に成功しました",
+      "en": "Ivy synchronized its watch."
     }
   },
   "ui_boot_tune_fail": {
     "index": 9,
     "content": {
-      "en": "Ivy failed to synchronize its watch.",
       "zh": "Ivy 同步时间失败。",
-      "jp": "Ivyは時間の同期に失敗しました"
+      "jp": "Ivyは時間の同期に失敗しました",
+      "en": "Ivy failed to synchronize its watch."
     }
   },
   "ui_boot_locating": {
     "index": 10,
     "content": {
-      "en": "Ivy is checking map...",
       "zh": "Ivy 正在获取位置信息...",
-      "jp": "Ivyは位置を特定しています…"
+      "jp": "Ivyは位置を特定しています…",
+      "en": "Ivy is checking map..."
     }
   },
   "ui_boot_locate_succ": {
     "index": 11,
     "content": {
-      "en": "Ivy found itself in map.",
       "zh": "Ivy 定位成功。",
-      "jp": "Ivyは位置の特定に成功しました"
+      "jp": "Ivyは位置の特定に成功しました",
+      "en": "Ivy found itself in map."
     }
   },
   "ui_boot_locate_fail": {
     "index": 12,
     "content": {
-      "en": "Ivy lost itself in map.",
       "zh": "Ivy 定位失败。",
-      "jp": "Ivyは位置の特定に失敗しました"
+      "jp": "Ivyは位置の特定に失敗しました",
+      "en": "Ivy lost itself in map."
     }
   },
   "ui_boot_physical_check": {
     "index": 13,
     "content": {
-      "en": "Ivy is doing a physical examination...",
       "zh": "Ivy 正在自检...",
-      "jp": "Ivyは自分を点検しています…"
+      "jp": "Ivyは自分を点検しています…",
+      "en": "Ivy is doing a physical examination..."
     }
   },
   "ui_boot_physical_succ": {
     "index": 14,
     "content": {
-      "en": "Ivy passed the examination.",
       "zh": "Ivy 自检成功。",
-      "jp": "Ivyは自分の点検に成功しました"
+      "jp": "Ivyは自分の点検に成功しました",
+      "en": "Ivy passed the examination."
     }
   },
   "ui_boot_physical_fail": {
     "index": 15,
     "content": {
-      "en": "Somehow Ivy didn't pass the examination.",
       "zh": "Ivy 自检失败。",
-      "jp": "Ivyは自分の点検に失敗しました"
+      "jp": "Ivyは自分の点検に失敗しました",
+      "en": "Somehow Ivy didn't pass the examination."
     }
   },
   "ui_boot_plant_check": {
     "index": 16,
     "content": {
-      "en": "Ivy is checking its plant...",
       "zh": "Ivy 正在检查植物是否存在...",
-      "jp": "Ivyは植物の存在を確認しています…"
+      "jp": "Ivyは植物の存在を確認しています…",
+      "en": "Ivy is checking its plant..."
     }
   },
   "ui_boot_plant_checked": {
     "index": 17,
     "content": {
-      "en": "Ivy completed plant checking.",
       "zh": "Ivy 完成了植物检测。",
-      "jp": "Ivyは植物の存在を確認しました"
+      "jp": "Ivyは植物の存在を確認しました",
+      "en": "Ivy completed plant checking."
     }
   },
   "ui_boot_plant_fail": {
     "index": 18,
     "content": {
-      "en": "Ivy failed to complete plant checking.",
       "zh": "Ivy 没能完成植物检测。",
-      "jp": "Ivyは植物の存在を確認できませんでした"
+      "jp": "Ivyは植物の存在を確認できませんでした",
+      "en": "Ivy failed to complete plant checking."
     }
   },
   "ui_boot_calibrating": {
     "index": 19,
     "content": {
-      "en": "Ivy is calibrating its front button.",
       "zh": "Ivy 正在校准前触按钮。",
-      "jp": "Ivyはフロントボタンの調整を行なっています"
+      "jp": "Ivyはフロントボタンの調整を行なっています",
+      "en": "Ivy is calibrating its front button."
     }
   },
   "ui_boot_waked_up": {
     "index": 20,
     "content": {
-      "en": "Ivy woke up.",
       "zh": "Ivy 醒了。",
-      "jp": "Ivyが目を覚ましました"
+      "jp": "Ivyが目を覚ましました",
+      "en": "Ivy woke up."
     }
   },
   "ui_tu_intro_hi": {
     "index": 21,
     "content": {
-      "en": "Hi",
       "zh": "你好",
-      "jp": "こんにちは"
+      "jp": "こんにちは",
+      "en": "Hi"
     }
   },
   "ui_tu_intro_ivy": {
     "index": 22,
     "content": {
-      "en": "I'm Ivy",
       "zh": "我是 Ivy",
-      "jp": "僕 Ivy"
+      "jp": "僕 Ivy",
+      "en": "I'm Ivy"
     }
   },
   "ui_tu_intro_meet": {
     "index": 23,
     "content": {
-      "en": "Nice to meet you",
       "zh": "很高兴见到你",
-      "jp": "お会いできてうれしいよ"
+      "jp": "お会いできてうれしいよ",
+      "en": "Nice to meet you"
     }
   },
   "ui_tu_intro_before_enter": {
     "index": 24,
     "content": {
-      "en": "Before we enter tutorial",
       "zh": "在我们进入教程之前",
-      "jp": "説明に入る前に"
+      "jp": "はじめに",
+      "en": "Before we enter tutorial"
     }
   },
   "ui_tu_intro_ready": {
     "index": 25,
     "content": {
-      "en": "Please make sure the plant is ready",
       "zh": "请确保植物已经准备好",
-      "jp": "植物の準備ができていることを確認してください"
+      "jp": "植物の用意は\n出来ていますか?",
+      "en": "Please make sure the plant is ready"
     }
   },
   "ui_tu_intro_shutdown": {
     "index": 26,
     "content": {
-      "en": "#Otherwise#, please shutdown by long pressing the back button",
       "zh": "#否则#，请长按后部按钮关机",
-      "jp": "#でなければ#後ろのボタンを長押しして電源を切ってください"
+      "jp": "まだなら#バックボタンを長押し#して\n電源を切ってください",
+      "en": "#Otherwise#, please shutdown by long pressing the back button"
     }
   },
   "ui_tu_touch_bar_interact": {
     "index": 27,
     "content": {
-      "en": "Interact using the two touch bars",
       "zh": "使用两侧触摸条交互",
-      "jp": "左右のタッチバーを使って操作します"
+      "jp": "左右のタッチバーを使って操作します",
+      "en": "Interact using the two touch bars"
     }
   },
   "ui_tu_touch_bar_two": {
     "index": 28,
     "content": {
-      "en": "Ivy has two touch bars",
       "zh": "Ivy 有两个触摸条",
-      "jp": "左右にタッチバーがあります"
+      "jp": "左右にタッチバーがあります",
+      "en": "Ivy has two touch bars"
     }
   },
   "ui_tu_touch_bar_yellow_dot": {
     "index": 29,
     "content": {
-      "en": "#Yellow# dots imply interactive bars",
       "zh": "#黄色#圆点代表可交互触摸条",
-      "jp": "#黄色の#点は相互作用のバーです"
+      "jp": "#黄色#の点はタッチバーです",
+      "en": "#Yellow# dots imply interactive bars"
     }
   },
   "ui_tu_touch_bar_left": {
     "index": 30,
     "content": {
-      "en": "Now, let's try touch the left bar",
       "zh": "现在，尝试触摸左侧触摸条",
-      "jp": "それでは左のタッチバーに触れてみてください"
+      "jp": "それでは左のタッチバーに触れてみてください",
+      "en": "Now, let's try touch the left bar"
     }
   },
   "ui_tu_touch_bar_right": {
     "index": 31,
     "content": {
-      "en": "Good, now try the right bar",
       "zh": "很好，触摸右侧触摸条",
-      "jp": "いいですね、では右のタッチバーに触れてみてください"
+      "jp": "いいですね、では右のタッチバーに触れてみてください",
+      "en": "Good, now try the right bar"
     }
   },
   "ui_tu_touch_bar_great": {
     "index": 32,
     "content": {
-      "en": "Great!",
       "zh": "太棒了！",
-      "jp": "素晴らしいですね"
+      "jp": "素晴らしいですね",
+      "en": "Great!"
     }
   },
   "ui_tu_water_prepare_plant": {
     "index": 33,
     "content": {
-      "en": "Nice! Let's now prepare for the plant",
       "zh": "很好，现在我们来准备植物",
-      "jp": "では植物の準備をしましょう"
+      "jp": "では植物を設置しましょう",
+      "en": "Nice! Let's now prepare for the plant"
     }
   },
   "ui_tu_water_remove_pot": {
     "index": 34,
     "content": {
-      "en": "Remove the pot before adding water",
       "zh": "加水之前请移出花托",
-      "jp": "水を加える前にポットを取ります"
+      "jp": "水を加える前にポットを取ります",
+      "en": "Remove the pot before adding water"
     }
   },
   "ui_tu_water_right_next": {
     "index": 35,
     "content": {
-      "en": "Touch right to the next step",
       "zh": "右触执行下一步",
-      "jp": "右のタッチバーで次へ進みます"
+      "jp": "右のタッチバーで次へ進みます",
+      "en": "Touch right to the next step"
     }
   },
   "ui_tu_water_assist_good": {
     "index": 37,
     "content": {
-      "en": "Good!",
       "zh": "很好！",
-      "jp": "グッド"
+      "jp": "グッド",
+      "en": "Good!"
     }
   },
   "ui_tu_plant_put_pot": {
     "index": 38,
     "content": {
-      "en": "Now put the inner-pot in",
       "zh": "现在，放入花托",
-      "jp": "ポットを入れます"
+      "jp": "ポットを入れます",
+      "en": "Now put the inner-pot in"
     }
   },
   "ui_tu_plant_select_app": {
     "index": 39,
     "content": {
-      "en": "Please select your plant in #App#",
       "zh": "请在#APP#选择你的植物",
-      "jp": "#APP#で植物を選んでください"
+      "jp": "#アプリ#で植物を\n選んでください",
+      "en": "Please select your plant in #App#"
     }
   },
   "ui_tu_plant_select_switch": {
     "index": 40,
     "content": {
-      "en": "After the plant is selected,\nthis page will be automatically switched.",
       "zh": "植物选择好后，\n此页面会自动切换。",
-      "jp": "植物を選択すると、\nページが自働的に切り替わります"
+      "jp": "植物を選択すると、\nページが自動的に切り替わります",
+      "en": "After the plant is selected,\nthis page will be automatically switched."
     }
   },
   "ui_tu_plant_right_skip": {
     "index": 41,
     "content": {
-      "en": "Or touch right to skip",
       "zh": "或者，右触跳过",
-      "jp": "または右のタッチバーでスキップします"
+      "jp": "または右のタッチバーでスキップします",
+      "en": "Or touch right to skip"
     }
   },
   "ui_tu_congratulations": {
     "index": 42,
     "content": {
-      "en": "Congratulations!",
       "zh": "恭喜！",
-      "jp": "おめでとうございます!"
+      "jp": "おめでとうございます!",
+      "en": "Congratulations!"
     }
   },
   "ui_tu_completed": {
     "index": 43,
     "content": {
-      "en": "You have completed the tutorial!",
       "zh": "你已经完成了所有指导教程！",
-      "jp": "あなたは全てのチュートリアルを終えました!"
+      "jp": "これで完了です!",
+      "en": "You have completed the tutorial!"
     }
   },
   "ui_tu_water_calibrating": {
     "index": 44,
     "content": {
-      "en": "Calibrating Level Sensor",
       "zh": "正在校准水位传感器",
-      "jp": "水平センサーを補正しています"
+      "jp": "水平センサーを補正しています",
+      "en": "Calibrating Level Sensor"
     }
   },
   "ui_tu_water_prepare_sensor": {
     "index": 45,
     "content": {
-      "en": "Preparing sensor environment...",
       "zh": "正在准备传感器环境...",
-      "jp": "センサー環境を準備しています…"
+      "jp": "センサー環境を準備しています…",
+      "en": "Preparing sensor environment..."
     }
   },
   "ui_tu_water_wait_moment": {
     "index": 46,
     "content": {
-      "en": "Please wait for a moment.",
       "zh": "请稍等片刻。",
-      "jp": "少々お待ちください"
+      "jp": "少々お待ちください",
+      "en": "Please wait for a moment."
     }
   },
   "ui_tu_water_detected": {
     "index": 47,
     "content": {
-      "en": "Detected water presence.",
       "zh": "检测到有水存在。",
-      "jp": "水を検知しました"
+      "jp": "水を検知しました",
+      "en": "Detected water presence."
     }
   },
   "ui_tu_water_tank_empty": {
     "index": 48,
     "content": {
-      "en": "Please make sure the tank is empty.",
       "zh": "请确保水仓是空的。",
-      "jp": "タンクが空であることを確認してください"
+      "jp": "タンクが空であることを確認してください",
+      "en": "Please make sure the tank is empty."
     }
   },
   "ui_tu_water_add_20_water": {
     "index": 49,
     "content": {
-      "en": "Please add 20mL of water.",
       "zh": "请加 20mL 水。",
-      "jp": "水を20mL入れて下さい"
+      "jp": "水を20mL入れて下さい",
+      "en": "Please add 20mL of water."
     }
   },
   "ui_tu_water_continue": {
     "index": 50,
     "content": {
-      "en": "After the water is added\nplease touch the right pad to continue.",
       "zh": "加水后\n请右触继续。",
-      "jp": "水を加えたら\n右のタッチバーに触れてください"
+      "jp": "水を加えたら\n右のタッチバーに触れてください",
+      "en": "After the water is added\nplease touch the right pad to continue."
     }
   },
   "ui_tu_water_calib_completed": {
     "index": 51,
     "content": {
-      "en": "Calibration completed!",
       "zh": "校准完成！",
-      "jp": "補正終了!"
+      "jp": "補正終了!",
+      "en": "Calibration completed!"
     }
   },
   "ui_tu_water_pour_out": {
     "index": 52,
     "content": {
-      "en": "You can now pour out the excess water",
       "zh": "现在，你可以倒出多余的水",
-      "jp": "余分な水を出すことができます"
+      "jp": "余分な水を出すことができます",
+      "en": "You can now pour out the excess water"
     }
   },
   "ui_tu_water_analyzing": {
     "index": 53,
     "content": {
-      "en": "Analyzing...",
       "zh": "分析中...",
-      "jp": "分析中です…"
+      "jp": "分析中です…",
+      "en": "Analyzing..."
     }
   },
   "ui_tu_water_another_20_water": {
     "index": 55,
     "content": {
-      "en": "Now add another 20mL of water\n({} mL in total).",
       "zh": "现在，再加入 20mL 水\n(共 {} mL)。",
-      "jp": "水\nを20mL追加してください({} mL全体)."
+      "jp": "水\nを20mL追加してください({} mL全体).",
+      "en": "Now add another 20mL of water\n({} mL in total)."
     }
   },
   "ui_tu_water_make_sure": {
     "index": 57,
     "content": {
-      "en": "Please make sure the water is added.",
       "zh": "请确认水已加入。",
-      "jp": "水が入っていることを確認してください"
+      "jp": "水が入っていることを確認してください",
+      "en": "Please make sure the water is added."
     }
   },
   "ui_actionbox_touch_left": {
     "index": 58,
     "content": {
-      "en": "touch left",
       "zh": "左触",
-      "jp": "左"
+      "jp": "左",
+      "en": "touch left"
     }
   },
   "ui_actionbox_touch_right": {
     "index": 59,
     "content": {
-      "en": "touch right",
       "zh": "右触",
-      "jp": "右"
+      "jp": "右",
+      "en": "touch right"
     }
   },
   "ui_fluid_select_plant": {
     "index": 60,
     "content": {
-      "en": "Please choose your plant\n( in APP )",
       "zh": "请选择你的植物\n( 在 APP 中)",
-      "jp": "植物\nを選択します(アプリで)"
+      "jp": "植物\nを選択します(アプリ)",
+      "en": "Please choose your plant\n( in APP )"
     }
   },
   "ui_fluid_analy_ten_mins": {
     "index": 61,
     "content": {
-      "en": "Analyzing...\nIt takes about 10min to complete.",
       "zh": "分析中...\n大约10分钟完成。",
-      "jp": "分析中です…\nは約10分かかります"
+      "jp": "分析中です…\nは約10分かかります",
+      "en": "Analyzing...\nIt takes about 10min to complete."
     }
   },
   "ui_fluid_analy_put_plant": {
     "index": 62,
     "content": {
-      "en": "Analyzing...\nPlease put in plant to continue.",
       "zh": "分析中...\n请放入植物继续。",
-      "jp": "分析中です…\n植物を入れてください"
+      "jp": "分析中です…\n植物を入れてください",
+      "en": "Analyzing...\nPlease put in plant to continue."
     }
   },
   "ui_fluid_healthy": {
     "index": 63,
     "content": {
-      "en": "Healthy water level.",
       "zh": "水量适宜。",
-      "jp": "適切な水位です"
+      "jp": "適切な水位です",
+      "en": "Healthy water level."
     }
   },
   "ui_fluid_absorbing": {
     "index": 64,
     "content": {
-      "en": "Ivy is still absorbing water from its soil.",
       "zh": "Ivy 仍在从土壤中吸收水分。",
-      "jp": "Ivyは土から水を吸っています"
+      "jp": "Ivyは土から水を吸っています",
+      "en": "Ivy is still absorbing water from its soil."
     }
   },
   "ui_fluid_add_about": {
     "index": 65,
     "content": {
-      "en": "Please add water to about {} mL.",
       "zh": "请加水大约 {} mL。",
-      "jp": "約{} mLの水を加えてください"
+      "jp": "約{} mLの水を加えてください",
+      "en": "Please add water to about {} mL."
     }
   },
   "ui_fluid_not_yet": {
     "index": 66,
     "content": {
-      "en": "Not Yet",
       "zh": "不足",
-      "jp": "まだ"
+      "jp": "まだ",
+      "en": "Not Yet"
     }
   },
   "ui_fluid_too_much": {
     "index": 67,
     "content": {
-      "en": "Too Much",
       "zh": "过多",
-      "jp": "多すぎ"
+      "jp": "多すぎ",
+      "en": "Too Much"
     }
   },
   "ui_fluid_good": {
     "index": 68,
     "content": {
-      "en": "Good",
       "zh": "适宜",
-      "jp": "グッド"
+      "jp": "グッド",
+      "en": "Good"
     }
   },
   "ui_plant_status_illumination_value": {
     "index": 69,
     "content": {
-      "en": "light",
       "zh": "光照",
-      "jp": "光"
+      "jp": "明るさ",
+      "en": "light"
     }
   },
   "ui_plant_status_temperature_value": {
     "index": 70,
     "content": {
-      "en": "temp",
       "zh": "温度",
-      "jp": "温度"
+      "jp": "温度",
+      "en": "temp"
     }
   },
   "ui_plant_status_ambient_humidity_value": {
     "index": 71,
     "content": {
-      "en": "humidity",
       "zh": "湿度",
-      "jp": "湿度"
+      "jp": "湿度",
+      "en": "humidity"
     }
   },
   "ui_plant_status_soil_humidity_value": {
     "index": 72,
     "content": {
-      "en": "soil",
       "zh": "土壤",
-      "jp": "土壌"
+      "jp": "土壌",
+      "en": "soil"
     }
   },
   "ui_plant_status_water_level_value": {
     "index": 73,
     "content": {
-      "en": "water",
       "zh": "水位",
-      "jp": "水位"
+      "jp": "水位",
+      "en": "water"
     }
   },
   "ui_plant_status_battery_value": {
     "index": 74,
     "content": {
-      "en": "battery",
       "zh": "电池",
-      "jp": "電池"
+      "jp": "電池",
+      "en": "battery"
     }
   },
   "ui_plant_status_leave": {
     "index": 75,
     "content": {
-      "en": "Ivy left for the moment.",
       "zh": "Ivy 暂时离开了。",
-      "jp": "植物が設置されていません"
+      "jp": "植物が設置されていません",
+      "en": "Ivy left for the moment."
     }
   },
   "ui_plant_status_sun_too_much": {
     "index": 76,
     "content": {
-      "en": "The sunlight is a little too much right now.",
       "zh": "现在光照有点太强了。",
-      "jp": "日差しが強すぎます"
+      "jp": "日差しが強すぎます",
+      "en": "The sunlight is a little too much right now."
     }
   },
   "ui_plant_status_sun_not_enough": {
     "index": 77,
     "content": {
-      "en": "The sunlight is not enough, please put Ivy to a brighter place.",
       "zh": "光照不足，请把Ivy放到一个更明亮的地方。",
-      "jp": "日光が足りません。Ivyをもっと明るい場所に置いてください"
+      "jp": "日光が足りません。Ivyをもっと明るい場所に置いてください",
+      "en": "The sunlight is not enough, please put Ivy to a brighter place."
     }
   },
   "ui_plant_status_sun_good": {
     "index": 78,
     "content": {
-      "en": "The sunlight is good for Ivy.",
       "zh": "光照恰到好处。",
-      "jp": "ちょうどいい陽射し"
+      "jp": "ちょうどいい陽射し",
+      "en": "The sunlight is good for Ivy."
     }
   },
   "ui_plant_status_sun_absorbing": {
     "index": 79,
     "content": {
-      "en": "Ivy will start absorbing light again tomorrow.",
       "zh": "Ivy 明天将继续吸收阳光。",
-      "jp": "Ivyは明日も太陽の光を浴びます"
+      "jp": "Ivyは明日も太陽の光を浴びます",
+      "en": "Ivy will start absorbing light again tomorrow."
     }
   },
   "ui_plant_status_temp_too_high": {
     "index": 80,
     "content": {
-      "en": "The temperature is too high.",
       "zh": "温度太高了。",
-      "jp": "温度が高すぎます"
+      "jp": "温度が高すぎます",
+      "en": "The temperature is too high."
     }
   },
   "ui_plant_status_temp_too_low": {
     "index": 81,
     "content": {
-      "en": "The temperature is too low.",
       "zh": "温度太低了。",
-      "jp": "温度が低すぎます"
+      "jp": "温度が低すぎます",
+      "en": "The temperature is too low."
     }
   },
   "ui_plant_status_temp_good": {
     "index": 82,
     "content": {
-      "en": "The temperature is good for Ivy.",
       "zh": "温度恰到好处。",
-      "jp": "ちょうどいい温度"
+      "jp": "ちょうどいい温度",
+      "en": "The temperature is good for Ivy."
     }
   },
   "ui_plant_status_hum_too_low": {
     "index": 83,
     "content": {
-      "en": "Air humidity is too low.",
       "zh": "环境湿度太低。",
-      "jp": "湿度が低すぎます"
+      "jp": "湿度が低すぎます",
+      "en": "Air humidity is too low."
     }
   },
   "ui_plant_status_hum_good": {
     "index": 84,
     "content": {
-      "en": "Air humidity is good for Ivy.",
       "zh": "环境湿度恰到好处。",
-      "jp": "ちょうどいい湿度"
+      "jp": "ちょうどいい湿度",
+      "en": "Air humidity is good for Ivy."
     }
   },
   "ui_plant_status_soil_uncalibrated": {
     "index": 85,
     "content": {
-      "en": "The sensor needs to study the plant-soil environment (starts after adding enough water; takes about 8 hours).",
       "zh": "传感器需要分析植物土壤环境（在水加足后开始，共约8小时）",
-      "jp": "センサーは植物の土壌環境を分析する必要があります(十分な水を入れてから約8時間必要です)"
+      "jp": "センサーは土壌環境を分析する必要があります(十分な水を入れてから約8時間必要です)",
+      "en": "The sensor needs to study the plant-soil environment (starts after adding enough water; takes about 8 hours)."
     }
   },
   "ui_plant_status_soil_unstable": {
     "index": 86,
     "content": {
-      "en": "The sensor value is still stabilizing. This may take a while...",
       "zh": "传感器数值仍在稳定中， 请稍等片刻...",
-      "jp": "センサー数値は安定しています。少々お待ちください…"
+      "jp": "センサー数値は安定しています。少々お待ちください…",
+      "en": "The sensor value is still stabilizing. This may take a while..."
     }
   },
   "ui_plant_status_soil_too_low": {
     "index": 87,
     "content": {
-      "en": "The soil is probably a little dry.",
       "zh": "土壤有点干。",
-      "jp": "土が少し乾いているようです"
+      "jp": "土が少し乾いているようです",
+      "en": "The soil is probably a little dry."
     }
   },
   "ui_plant_status_soil_good": {
     "index": 88,
     "content": {
-      "en": "The soil moisture is good for Ivy.",
       "zh": "土壤湿度恰到好处。",
-      "jp": "土はちょうどいい湿り気"
+      "jp": "土はちょうどいい湿り気",
+      "en": "The soil moisture is good for Ivy."
     }
   },
   "ui_plant_status_analyze_has_pot": {
     "index": 89,
     "content": {
-      "en": "Ivy is still analyzing...",
       "zh": "Ivy 仍在分析中...",
-      "jp": "Ivyはまだ分析中です…"
+      "jp": "Ivyはまだ分析中です…",
+      "en": "Ivy is still analyzing..."
     }
   },
   "ui_plant_status_analyze_not_pot": {
     "index": 90,
     "content": {
-      "en": "Analyzing...Please put in plant to continue.",
       "zh": "分析中...请放入植物继续。",
-      "jp": "分析中です…\n植物を入れてください"
+      "jp": "分析中です…\n植物を入れてください",
+      "en": "Analyzing...Please put in plant to continue."
     }
   },
   "ui_plant_status_water_good": {
     "index": 91,
     "content": {
-      "en": "The water level is good for Ivy.",
       "zh": "水量恰到好处。",
-      "jp": "ちょうどいい水位"
+      "jp": "ちょうどいい水位",
+      "en": "The water level is good for Ivy."
     }
   },
   "ui_plant_status_tank_dry_no_need": {
     "index": 92,
     "content": {
-      "en": "Ivy is still absorbing water from the soil.",
       "zh": "Ivy 正在从土壤中吸水。",
-      "jp": "Ivyは土から水を吸っています"
+      "jp": "Ivyは土から水を吸っています",
+      "en": "Ivy is still absorbing water from the soil."
     }
   },
   "ui_plant_status_tank_dry_simple_need": {
     "index": 93,
     "content": {
-      "en": "Ivy is a little thirsty, please add some water to the tank.",
       "zh": "Ivy 有点口渴，请在水仓中加水。",
-      "jp": "Ivyは喉が渇いています。水を入れてください"
+      "jp": "Ivyは喉が渇いています。水を入れてください",
+      "en": "Ivy is a little thirsty, please add some water to the tank."
     }
   },
   "ui_plant_status_tank_dry_strong_need": {
     "index": 94,
     "content": {
-      "en": "Ivy is very thirsty, please add some water right now!",
       "zh": "Ivy 非常渴，请立即加水！",
-      "jp": "Ivyはとても喉が渇いています。すぐに水を入れてください!"
+      "jp": "Ivyはとても喉が渇いています。すぐに水を入れてください!",
+      "en": "Ivy is very thirsty, please add some water right now!"
     }
   },
   "ui_plant_status_water_analyzing": {
     "index": 95,
     "content": {
-      "en": "Analyzing...",
       "zh": "分析中...",
-      "jp": "分析中です…"
+      "jp": "分析中です…",
+      "en": "Analyzing..."
     }
   },
   "ui_plant_status_batt_charging": {
     "index": 96,
     "content": {
-      "en": "Charging...",
       "zh": "充电中...",
-      "jp": "充電中です…"
+      "jp": "充電中です…",
+      "en": "Charging..."
     }
   },
   "ui_plant_status_batt_undetermined": {
     "index": 97,
     "content": {
-      "en": "Analyzing battery status. Please wait for a moment...",
       "zh": "分析电池状态中，请稍等片刻...",
-      "jp": "バッテリーの状態を分析します。少々お待ちください…"
+      "jp": "バッテリーの状態を分析します。少々お待ちください…",
+      "en": "Analyzing battery status. Please wait for a moment..."
     }
   },
   "ui_plant_status_batt_dry": {
     "index": 98,
     "content": {
-      "en": "Battery is almost run out. Please charge Ivy now!",
       "zh": "电量即将耗尽，请立即为 Ivy 充电！",
-      "jp": "バッテリーが切れます。今すぐIvyを充電してください!"
+      "jp": "バッテリーが切れます。今すぐIvyを充電してください!",
+      "en": "Battery is almost run out. Please charge Ivy now!"
     }
   },
   "ui_plant_status_batt_low": {
     "index": 99,
     "content": {
-      "en": "Battery is low! Please charge Ivy in time.",
       "zh": "电量低！请及时为 Ivy 充电。",
-      "jp": "バッテリーが少ないです!Ivyを充電してください"
+      "jp": "バッテリーが少ないです!Ivyを充電してください",
+      "en": "Battery is low! Please charge Ivy in time."
     }
   },
   "ui_plant_status_batt_good": {
     "index": 100,
     "content": {
-      "en": "Battery is good.",
       "zh": "电量充足。",
-      "jp": "バッテリーは十分です"
+      "jp": "バッテリーは十分です",
+      "en": "Battery is good."
     }
   },
   "ui_prov_tip_title": {
     "index": 101,
     "content": {
-      "en": "ProvisionTip",
       "zh": "配网提示",
-      "jp": "配信のヒント"
+      "jp": "配信のヒント",
+      "en": "ProvisionTip"
     }
   },
   "ui_xm_prov_tip_general": {
     "index": 102,
     "content": {
-      "en": "1.Open Mijia App.\n2.Click top corner + add equipment.\n3.Select smart pet Ivy.\n4.Select Wifi and input password.\n5.Click OK connect to equipment.",
       "zh": "1.请打开米家APP.\n2.点击 + 号，添加设备.\n3.选择智能萌宠花盆Ivy.\n4.选择WiFi,输入WiFi密码.\n5.点击连接,连接设备.",
-      "jp": "1.Mijia Appを開きます。\n2.上部の角をクリックして、+ デバイスを追加をクリックします。\n3.smart pet Ivyを選択します。\n4.Wifiを選択して、Wifiのパスワードを入力します。\n5.接続をクリックしてデバイスを接続します"
+      "jp": "1.Mijia Appを開きます。\n2.上部の角をクリックして、+ デバイスを追加をクリックします。\n3.smart pet Ivyを選択します。\n4.Wifiを選択して、Wifiのパスワードを入力します。\n5.接続をクリックしてデバイスを接続します",
+      "en": "1.Open Mijia App.\n2.Click top corner + add equipment.\n3.Select smart pet Ivy.\n4.Select Wifi and input password.\n5.Click OK connect to equipment."
     }
   },
   "ui_xm_prov_tip_phone_connected": {
     "index": 103,
     "content": {
-      "en": "The mobile phone connected!",
       "zh": "手机连接成功!",
-      "jp": "携帯電話に接続しました!"
+      "jp": "携帯電話に接続しました!",
+      "en": "The mobile phone connected!"
     }
   },
   "ui_xm_prov_tip_config_router": {
     "index": 104,
     "content": {
-      "en": "Config wifi router!",
       "zh": "配置无线路由信息!",
-      "jp": "Wifiルーターを設定します!"
+      "jp": "Wifiルーターを設定します!",
+      "en": "Config wifi router!"
     }
   },
   "ui_xm_prov_tip_complete": {
     "index": 105,
     "content": {
-      "en": "Complete! Waiting for reboot!",
       "zh": "配网完成！等待重启！",
-      "jp": "完了! 再起動を待っています!"
+      "jp": "完了! 再起動を待っています!",
+      "en": "Complete! Waiting for reboot!"
     }
   },
   "ui_sysinfo_wifi_name": {
     "index": 106,
     "content": {
-      "en": "SSID",
       "zh": "无线名称",
-      "jp": "SSID"
+      "jp": "SSID",
+      "en": "SSID"
     }
   },
   "ui_sysinfo_public_ip": {
     "index": 107,
     "content": {
-      "en": "Public IP",
       "zh": "公共IP",
-      "jp": "パブリックIP"
+      "jp": "パブリックIP",
+      "en": "Public IP"
     }
   },
   "ui_sysinfo_local_ip": {
     "index": 108,
     "content": {
-      "en": "Local IP",
       "zh": "本地IP",
-      "jp": "ローカルIP"
+      "jp": "ローカルIP",
+      "en": "Local IP"
     }
   },
   "ui_sysinfo_ota_ver": {
     "index": 109,
     "content": {
-      "en": "OTA ver.",
       "zh": "固件版本",
-      "jp": "ファームウェアのバージョン"
+      "jp": "ファームウェアのバージョン",
+      "en": "OTA ver."
     }
   },
   "ui_sysinfo_evolve": {
     "index": 110,
     "content": {
-      "en": "Evolve",
       "zh": "进化",
-      "jp": "アップデート"
+      "jp": "アップデート",
+      "en": "Evolve"
     }
   },
   "ui_sysinfo_location": {
     "index": 111,
     "content": {
-      "en": "Location",
       "zh": "位置",
-      "jp": "場所"
+      "jp": "場所",
+      "en": "Location"
     }
   },
   "ui_evolve_check_update_title": {
     "index": 112,
     "content": {
-      "en": "Checking Updates",
       "zh": "检查更新中",
-      "jp": "アップデートを確認中…"
+      "jp": "アップデートを確認中…",
+      "en": "Checking Updates"
     }
   },
   "ui_evolve_check_update_desc": {
     "index": 113,
     "content": {
-      "en": "requesting from plantsIO server",
       "zh": "正在从 plantsIO 云端获取最新数据",
-      "jp": "plantsIOサーバーから最新データを取得中…"
+      "jp": "plantsIOサーバーから最新データを取得中…",
+      "en": "requesting from plantsIO server"
     }
   },
   "ui_evolve_title": {
     "index": 114,
     "content": {
-      "en": "Evolve",
       "zh": "进化",
-      "jp": "アップデート"
+      "jp": "アップデート",
+      "en": "Evolve"
     }
   },
   "ui_evolve_desc": {
     "index": 115,
     "content": {
-      "en": "Ivy is able to evolve, do you want to update now?",
       "zh": "Ivy已经准备好进化, 您想要马上更新吗?",
-      "jp": "Ivyはアップデートの準備ができました。今すぐアップデートしますか?"
+      "jp": "Ivyはアップデートの準備ができました。今すぐアップデートしますか?",
+      "en": "Ivy is able to evolve, do you want to update now?"
     }
   },
   "ui_evolve_evolving": {
     "index": 116,
     "content": {
-      "en": "Evolving",
       "zh": "进化中",
-      "jp": "アップデート中…"
+      "jp": "アップデート中…",
+      "en": "Evolving"
     }
   },
   "ui_evolve_initializing": {
     "index": 117,
     "content": {
-      "en": "initializing",
       "zh": "正在初始化",
-      "jp": "初期化しています…"
+      "jp": "初期化しています…",
+      "en": "initializing"
     }
   },
   "ui_evolve_total": {
     "index": 118,
     "content": {
-      "en": "total",
       "zh": "全部",
-      "jp": "すべて"
+      "jp": "total",
+      "en": "total"
     }
   },
   "ui_evolve_not_shutdown": {
     "index": 119,
     "content": {
-      "en": "Please do not shutdown Ivy",
       "zh": "请不要关闭Ivy",
-      "jp": "Ivyの電源を切らないでください"
+      "jp": "Ivyの電源を切らないでください",
+      "en": "Please do not shutdown Ivy"
     }
   },
   "ui_evolve_expressions_files": {
     "index": 120,
     "content": {
-      "en": "new expressions",
       "zh": "新的表情文件",
-      "jp": "新しい表情ファイル"
+      "jp": "新しい表情ファイル",
+      "en": "new expressions"
     }
   },
   "ui_evolve_behavior_tree_files": {
     "index": 121,
     "content": {
-      "en": "behavior tree files",
       "zh": "行为树文件",
-      "jp": "行動ツリーファイル"
+      "jp": "行動ツリーファイル",
+      "en": "behavior tree files"
     }
   },
   "ui_evolve_configuration_files": {
     "index": 122,
     "content": {
-      "en": "configuration files",
       "zh": "配置文件",
-      "jp": "設定ファイル"
+      "jp": "設定ファイル",
+      "en": "configuration files"
     }
   },
   "ui_evolve_system_files": {
     "index": 123,
     "content": {
-      "en": "system files",
       "zh": "系统文件",
-      "jp": "システムファイル"
+      "jp": "システムファイル",
+      "en": "system files"
     }
   },
   "ui_evolve_downloading": {
     "index": 124,
     "content": {
-      "en": "downloading",
       "zh": "下载中... ",
-      "jp": "ダウンロード中…"
+      "jp": "ダウンロード中…",
+      "en": "downloading"
     }
   },
   "ui_engine_shutdown": {
     "index": 125,
     "content": {
-      "en": "Shutdown Ivy",
       "zh": "关闭 Ivy",
-      "jp": "電源を切ります"
+      "jp": "電源を切ります",
+      "en": "Shutdown Ivy"
     }
   },
   "ui_engine_shutdown_confirm": {
     "index": 126,
     "content": {
-      "en": "Are you sure you want to shutdown Ivy?",
       "zh": "你确定要关闭Ivy吗?",
-      "jp": "Ivyの電源を切りますか?"
+      "jp": "Ivyの電源を切りますか?",
+      "en": "Are you sure you want to shutdown Ivy?"
     }
   },
   "ui_engine_reconfig": {
     "index": 127,
     "content": {
-      "en": "Reconfig Ivy",
       "zh": "重置Ivy",
-      "jp": "Ivyを再設定します"
+      "jp": "Ivyを再設定します",
+      "en": "Reconfig Ivy"
     }
   },
   "ui_engine_reconfig_confirm": {
     "index": 128,
     "content": {
-      "en": "Are you sure you want to reconfigure Ivy?",
       "zh": "您确定要重置Ivy吗?",
-      "jp": "Ivyを再設定しますか?"
+      "jp": "Ivyを再設定しますか?",
+      "en": "Are you sure you want to reconfigure Ivy?"
     }
   },
   "ui_engine_reset": {
     "index": 129,
     "content": {
-      "en": "Reset Ivy",
       "zh": "重启Ivy",
-      "jp": "Ivyをリセットします"
+      "jp": "Ivyをリセットします",
+      "en": "Reset Ivy"
     }
   },
   "ui_engine_reset_confirm": {
     "index": 130,
     "content": {
-      "en": "Are you sure you want to reset Ivy to factory testing?",
       "zh": "您确定要重启Ivy并进入工厂测试模式吗?",
-      "jp": "Ivyをリセットしてテストモードにしますか?"
+      "jp": "Ivyをリセットしてテストモードにしますか?",
+      "en": "Are you sure you want to reset Ivy to factory testing?"
     }
   },
   "ui_apply_desc": {
     "index": 131,
     "content": {
-      "en": "Yes",
       "zh": "是",
-      "jp": "はい"
+      "jp": "はい",
+      "en": "Yes"
     }
   },
   "ui_cancel_desc": {
     "index": 132,
     "content": {
-      "en": "No",
       "zh": "否",
-      "jp": "いいえ"
+      "jp": "いいえ",
+      "en": "No"
     }
   },
   "ui_ota_title": {
     "index": 133,
     "content": {
-      "en": "Upgrade",
       "zh": "固件升级",
-      "jp": "ファームウェアアップデート"
+      "jp": "ファームウェアアップデート",
+      "en": "Upgrade"
     }
   },
   "ui_ota_remote": {
     "index": 134,
     "content": {
-      "en": "Downloading from remote cloud...",
       "zh": "正在从云端下载...",
-      "jp": "クラウドからダウンロード中…"
+      "jp": "クラウドからダウンロード中…",
+      "en": "Downloading from remote cloud..."
     }
   },
   "ui_ota_status_downloading": {
     "index": 135,
     "content": {
-      "en": "Downloading...",
       "zh": "正在下载...",
-      "jp": "ダウンロード中…"
+      "jp": "ダウンロード中…",
+      "en": "Downloading..."
     }
   },
   "ui_ota_status_downloaded": {
     "index": 136,
     "content": {
-      "en": "Downloaded.",
       "zh": "下载完成.",
-      "jp": "ダウンロード完了"
+      "jp": "ダウンロード完了",
+      "en": "Downloaded."
     }
   },
   "ui_ota_status_installing": {
     "index": 137,
     "content": {
-      "en": "installing...",
       "zh": "正在安装...",
-      "jp": "インストール中…"
+      "jp": "インストール中…",
+      "en": "installing..."
     }
   },
   "ui_ota_status_installed": {
     "index": 138,
     "content": {
-      "en": "installed.",
       "zh": "安装完成.",
-      "jp": "インストール完了"
+      "jp": "インストール完了",
+      "en": "installed."
     }
   },
   "ui_ota_status_success": {
     "index": 139,
     "content": {
-      "en": "Upgrade successful!",
       "zh": "升级成功!",
-      "jp": "アップグレード成功!"
+      "jp": "アップグレード成功!",
+      "en": "Upgrade successful!"
     }
   },
   "ui_ota_status_failed": {
     "index": 140,
     "content": {
-      "en": "Upgrade failed somehow.",
       "zh": "升级失败.",
-      "jp": "アップグレードに失敗しました"
+      "jp": "アップグレードに失敗しました",
+      "en": "Upgrade failed somehow."
     }
   },
   "ui_ota_status_upgrading": {
     "index": 141,
     "content": {
-      "en": "Upgrading now. It may take a few minutes...",
       "zh": "现在正在升级,可能需要几分钟...",
-      "jp": "現在アップグレード中です。そのままお待ちください…"
+      "jp": "現在アップグレード中です。そのままお待ちください…",
+      "en": "Upgrading now. It may take a few minutes..."
     }
   },
   "ui_tu_prov_config_wifi": {
     "index": 142,
     "content": {
-      "en": "Now it's time to configure WiFi",
       "zh": "现在，是时候配置无线网络了",
-      "jp": "Wifiを設定してください"
+      "jp": "Wifiを設定してください",
+      "en": "Now it's time to configure WiFi"
     }
   },
   "ui_tu_prov_in_store": {
     "index": 143,
     "content": {
-      "en": "In Apple Store / Play Store",
       "zh": "在苹果 / 安卓商店",
-      "jp": "Apple Store / Google Playにて"
+      "jp": "Apple Store / Google Playにて",
+      "en": "In Apple Store / Play Store"
     }
   },
   "ui_tu_prov_download": {
     "index": 144,
     "content": {
-      "en": "download",
       "zh": "下载",
-      "jp": "ダウンロード"
+      "jp": "ダウンロード",
+      "en": "download"
     }
   },
   "ui_tu_prov_ap": {
     "index": 145,
     "content": {
-      "en": "Esp32 SoftAP Provisioning\nTuya Smart",
       "zh": "Esp32 SoftAP Provisioning\n涂鸦智能",
-      "jp": "Esp32 SoftAP Provisioning\nTuya Smart"
+      "jp": "Esp32 SoftAP Provisioning\nTuya Smart",
+      "en": "Esp32 SoftAP Provisioning\nTuya Smart"
     }
   },
   "ui_tu_prov_fail": {
     "index": 146,
     "content": {
-      "en": "Incorrect WiFi Credentials\nPlease try again",
       "zh": "错误的无线网络认证\n请重试",
-      "jp": "Wifi認証が正しくありません\nもう1度お試しください"
+      "jp": "Wifi認証が正しくありません\nもう1度お試しください",
+      "en": "Incorrect WiFi Credentials\nPlease try again"
     }
   },
   "ui_tu_tuya_activation": {
     "index": 147,
     "content": {
-      "en": "Good! Let's now move to activation",
       "zh": "很好，我们现在来到激活步骤",
-      "jp": "ではアクティベーションに移りましょう"
+      "jp": "ではアクティベーションに移りましょう",
+      "en": "Good! Let's now move to activation"
     }
   },
   "ui_tu_open_tuya_app": {
     "index": 148,
     "content": {
-      "en": "Open #App#",
       "zh": "打开 #App#",
-      "jp": "#App#を開きます"
+      "jp": "#アプリ# を開きます",
+      "en": "Open #App#"
     }
   },
   "ui_tu_tuya_add_device": {
     "index": 149,
     "content": {
-      "en": "Click #Add Device# at the top right",
       "zh": "点击右上角 #添加设备#",
-      "jp": "右上の#デバイス追加をクリックする#"
+      "jp": "右上の#デバイス追加をクリックする#",
+      "en": "Click #Add Device# at the top right"
     }
   },
   "ui_tu_tuya_scan": {
     "index": 150,
     "content": {
-      "en": "Click the #scan icon# at the top right",
       "zh": "点击右上角 #扫描按钮#",
-      "jp": "右上の#スキャンボタンをクリック#"
+      "jp": "右上の#スキャンボタンをクリック#",
+      "en": "Click the #scan icon# at the top right"
     }
   },
   "ui_tu_touch_right": {
     "index": 151,
     "content": {
-      "en": "Touch right to the next step",
       "zh": "右触进行下一步",
-      "jp": "右のタッチバーで次へ進みます"
+      "jp": "右のタッチバーで次へ進みます",
+      "en": "Touch right to the next step"
     }
   },
   "ui_tu_loading": {
     "index": 152,
     "content": {
-      "en": "loading...",
       "zh": "加载中...",
-      "jp": "ロード中…"
+      "jp": "ロード中…",
+      "en": "loading..."
     }
   },
   "ui_qr_softap": {
     "index": 153,
     "content": {
-      "en": "Scan with #DB0000 ESP32 SoftAP# to provision",
       "zh": "用 #DB0000 ESP32 SoftAP# 扫描配网",
-      "jp": "#DB0000 ESP32 software #でスキャンしてください"
+      "jp": "#DB0000 ESP32 software #でスキャンしてください",
+      "en": "Scan with #DB0000 ESP32 SoftAP# to provision"
     }
   },
   "ui_qr_tuya": {
     "index": 154,
     "content": {
-      "en": "Scan with #DB0000 Tuya Smart# to activate",
       "zh": "用 #DB0000 涂鸦智能# 扫描激活",
-      "jp": "#DB0000Tuya Smart#でスキャンしてください"
+      "jp": "#DB0000Tuya Smart#でスキャンしてください",
+      "en": "Scan with #DB0000 Tuya Smart# to activate"
     }
   },
   "ui_tuya_prov_init": {
     "index": 155,
     "content": {
-      "en": "1.Please turn on your phone's Bluetooth.\n2.Open tuya app.\n3.Automatically discover devices or click Add devices.\n4.Add Ivy.\n5.Select wifi according to the app prompt and click Connect.",
       "zh": "1.打开手机蓝牙.\n2.打开涂鸦app.\n3.自动发现设备或者点击添加设备.\n4.添加萌宠智能花盆Ivy.\n5.根据app提示选择wifi,点击连接.",
-      "jp": "1.携帯電話のブルートゥースをオンにしてください.\n2.Tuya アプリを開く.\n3.デバイスを自動的に検出するか、[デバイスの追加] をクリックします.\n4.かわいいペット スマート植木鉢 アイビーを追加.\n5.アプリのプロンプトに従って wifi を選択し、[接続] をクリックします."
+      "jp": "1.携帯電話のブルートゥースをオンにしてください.\n2.Tuya アプリを開く.\n3.デバイスを自動的に検出するか、[デバイスの追加] をクリックします.\n4.かわいいペット スマート植木鉢 アイビーを追加.\n5.アプリのプロンプトに従って wifi を選択し、[接続] をクリックします.",
+      "en": "1.Please turn on your phone's Bluetooth.\n2.Open tuya app.\n3.Automatically discover devices or click Add devices.\n4.Add Ivy.\n5.Select wifi according to the app prompt and click Connect."
     }
   },
   "ui_tuya_prov_ble_conn": {
     "index": 156,
     "content": {
-      "en": "The phone connected to the device successfully!",
       "zh": "手机连接设备成功!",
-      "jp": "スマートフォンがデバイスに接続されました"
+      "jp": "スマートフォンがデバイスに接続されました",
+      "en": "The phone connected to the device successfully!"
     }
   },
   "ui_tuya_prov_wifi_conn": {
     "index": 157,
     "content": {
-      "en": "Device networking success!",
       "zh": "设备联网成功!",
-      "jp": "デバイスネットワーキングの成功!"
+      "jp": "デバイスネットワーキングの成功!",
+      "en": "Device networking success!"
     }
   },
   "ui_tuya_prov_activated": {
     "index": 158,
     "content": {
-      "en": "The device has activated successfully and is waking up Ivy......",
       "zh": "设备激活成功,正在唤醒艾薇......",
-      "jp": "デバイスは正常にアクティブ化され、Ivy を起動しています......"
+      "jp": "デバイスは正常にアクティブ化され、Ivy を起動しています......",
+      "en": "The device has activated successfully and is waking up Ivy......"
     }
   },
   "ui_no_service": {
     "index": 159,
     "content": {
-      "en": "Service Unavailable",
       "zh": "无服务",
-      "jp": "サービス無し"
+      "jp": "サービス無し",
+      "en": "Service Unavailable"
     }
   },
   "ui_no_service_desc": {
     "index": 160,
     "content": {
-      "en": "The service is unavailable. Please enable it in the APP.",
       "zh": "当前服务未开启，请在APP中授权相关服务。",
-      "jp": "現在のサービスは有効になっていません。APP で関連するサービスを承認してください。"
+      "jp": "現在のサービスは有効になっていません。APP で関連するサービスを承認してください。",
+      "en": "The service is unavailable. Please enable it in the APP."
     }
   },
   "ui_tuya_tip_connect_succ": {
     "index": 161,
     "content": {
-      "en": "Connected",
       "zh": "连网成功",
-      "jp": "インターネットに正常に接続されました"
+      "jp": "インターネットに正常に接続されました",
+      "en": "Connected"
     }
   },
   "ui_tuya_tip_connect_fail": {
     "index": 162,
     "content": {
-      "en": "Lost Connection",
       "zh": "连网失败",
-      "jp": "インターネットに接続できませんでした"
+      "jp": "インターネットに接続できませんでした",
+      "en": "Lost Connection"
     }
   },
   "ui_tuya_tip_reason_pwd_error": {
     "index": 163,
     "content": {
-      "en": "Incorrect Wi-Fi password",
       "zh": "WiFi密码错误",
-      "jp": "間違った WiFi パスワード"
+      "jp": "間違った WiFi パスワード",
+      "en": "Incorrect Wi-Fi password"
     }
   },
   "ui_tuya_tip_reason_ap_not_found": {
     "index": 164,
     "content": {
-      "en": "Unable to connect to Wi-Fi",
       "zh": "无法连接到指定WiFi",
-      "jp": "指定した WiFi に接続できません"
+      "jp": "指定した WiFi に接続できません",
+      "en": "Unable to connect to Wi-Fi"
     }
   },
   "ui_tuya_tip_fail_reset": {
     "index": 165,
     "content": {
-      "en": "Please check the WiFI status again and restart the device or reconfigure the network.",
       "zh": "请重新检查WiFI状态,重启设备或者重新配网.",
-      "jp": "WiFI の状態を再度確認し、デバイスを再起動するか、ネットワークを再構成してください。"
+      "jp": "WiFI の状態を再度確認し、デバイスを再起動するか、ネットワークを再構成してください。",
+      "en": "Please check the WiFI status again and restart the device or reconfigure the network."
     }
   },
   "ui_reboot": {
     "index": 166,
     "content": {
-      "en": "Reboot",
       "zh": "重新启动",
-      "jp": "再起動"
+      "jp": "再起動",
+      "en": "Reboot"
     }
   },
   "ui_reboot_confirm": {
     "index": 167,
     "content": {
-      "en": "Are you sure you want to reboot Ivy?",
       "zh": "你确定要重启 Ivy 吗？",
-      "jp": "本当に Ivy を再起動しますか?"
+      "jp": "本当に Ivy を再起動しますか?",
+      "en": "Are you sure you want to reboot Ivy?"
     }
   },
   "ui_lang_change": {
     "index": 168,
     "content": {
-      "en": "Language Change",
       "zh": "语言变更",
-      "jp": "言語変更"
+      "jp": "言語変更",
+      "en": "Language Change"
     }
   },
   "ui_lang_change_desc": {
     "index": 169,
     "content": {
-      "en": "Do you want to reboot Ivy now to apply the change?",
       "zh": "是否立即重启以应用设置？",
-      "jp": "変更を適用するために Ivy を今すぐ再起動しますか?"
+      "jp": "変更を適用するために Ivy を今すぐ再起動しますか?",
+      "en": "Do you want to reboot Ivy now to apply the change?"
     }
   },
   "ui_month": {
     "index": 170,
     "content": {
-      "en": "[\"\",[0,\"Jan\"], [1,\"Feb\"], [2,\"Mar\"], [3,\"Apr\"], [4,\"May\"], [5,\"Jun\"], [6,\"Jul\"], [7,\"Aug\"], [8,\"Sep\"], [9,\"Oct\"], [10,\"Nov\"], [11,\"Dec\"]]",
       "zh": "月",
-      "jp": "月"
+      "jp": "月",
+      "en": "[\"\",[0,\"Jan\"], [1,\"Feb\"], [2,\"Mar\"], [3,\"Apr\"], [4,\"May\"], [5,\"Jun\"], [6,\"Jul\"], [7,\"Aug\"], [8,\"Sep\"], [9,\"Oct\"], [10,\"Nov\"], [11,\"Dec\"]]"
     }
   },
   "ui_date": {
     "index": 171,
     "content": {
-      "en": "Date",
       "zh": "日",
-      "jp": "日"
+      "jp": "日",
+      "en": "Date"
     }
   },
   "ui_day": {
     "index": 172,
     "content": {
-      "en": "[\"\",[0,\"SUN\"], [1,\"MON\"], [2,\"TUE\"], [3,\"WED\"], [4,\"THU\"], [5,\"FRI\"], [6,\"SAT\"]]",
       "zh": "[\"\",[0,\"星期日\"], [1,\"星期一\"], [2,\"星期二\"], [3,\"星期三\"], [4,\"星期四\"], [5,\"星期五\"], [6,\"星期六\"]]",
-      "jp": "[\"\",[0,\"日曜日\"],[1,\"月曜日\"],[2,\"火曜日\"],[3,\"水曜日\"],[4,\"木曜日\"],[5,\"金曜日\"],[6,\"土曜日\"]]"
+      "jp": "[\"\",[0,\"日曜日\"],[1,\"月曜日\"],[2,\"火曜日\"],[3,\"水曜日\"],[4,\"木曜日\"],[5,\"金曜日\"],[6,\"土曜日\"]]",
+      "en": "[\"\",[0,\"SUN\"], [1,\"MON\"], [2,\"TUE\"], [3,\"WED\"], [4,\"THU\"], [5,\"FRI\"], [6,\"SAT\"]]"
     }
   },
   "ui_tuya_tip_reason_week": {
     "index": 173,
     "content": {
-      "en": "WiFi signal is weak, please approach the router",
       "zh": "WiFi信号弱，请靠近路由器",
-      "jp": "WiFi 信号が弱いです。ルーターに近づいてください"
+      "jp": "WiFi 信号が弱いです。ルーターに近づいてください",
+      "en": "WiFi signal is weak, please approach the router"
     }
   },
   "ui_tu_water_no_detected": {
     "index": 174,
     "content": {
-      "en": "Water not detected",
       "zh": "未检测到水",
-      "jp": "水は検出されませんでした"
+      "jp": "水は検出されませんでした",
+      "en": "Water not detected"
     }
   },
   "ui_tuya_tip_signal_week": {
     "index": 175,
     "content": {
-      "en": "Signal Week",
       "zh": "信号弱",
-      "jp": "シグナルウィーク"
+      "jp": "シグナルウィーク",
+      "en": "Signal Week"
     }
   },
   "ui_prov_popup": {
     "index": 176,
     "content": {
-      "en": "Ivy should popup in APP now",
       "zh": "App中 Ivy 将自动出现",
-      "jp": "Ivy がアプリに自動的に表示されます"
+      "jp": "Ivy がアプリに自動的に表示されます",
+      "en": "Ivy should popup in APP now"
     }
   },
   "ui_prov_configuring": {
     "index": 177,
     "content": {
-      "en": "Configuring",
       "zh": "配置中",
-      "jp": "構成する"
+      "jp": "構成する",
+      "en": "Configuring"
     }
   },
   "ui_prov_connecting_router": {
     "index": 178,
     "content": {
-      "en": "Connecting to router...",
       "zh": "连接路由中...",
-      "jp": "ルートに接続しています..."
+      "jp": "ルートに接続しています...",
+      "en": "Connecting to router..."
     }
   },
   "ui_prov_router_success": {
     "index": 179,
     "content": {
-      "en": "Connected to router!",
       "zh": "成功连接路由！",
-      "jp": "ルーターが正常に接続されました!"
+      "jp": "ルーターが正常に接続されました!",
+      "en": "Connected to router!"
     }
   },
   "ui_prov_activating": {
     "index": 180,
     "content": {
-      "en": "Activating...",
       "zh": "激活中...",
-      "jp": "有効化しています..."
+      "jp": "有効化しています...",
+      "en": "Activating..."
     }
   },
   "ui_prov_app_success": {
     "index": 181,
     "content": {
-      "en": "App connected!",
       "zh": "APP 已连接！",
-      "jp": "アプリが接続されました！"
+      "jp": "アプリが接続されました！",
+      "en": "App connected!"
     }
   },
   "ui_prov_act_success": {
     "index": 182,
     "content": {
-      "en": "Successfully activated Ivy!",
       "zh": "Ivy 激活成功！",
-      "jp": "Ivy アクティベーション成功！"
+      "jp": "Ivy アクティベーション成功！",
+      "en": "Successfully activated Ivy!"
     }
   },
   "ui_prov_fail": {
     "index": 183,
     "content": {
-      "en": "Please restart configuring in APP and reboot Ivy",
       "zh": "请重新配网并重启 Ivy",
-      "jp": "ネットワークを再構成して Ivy を再起動してください"
+      "jp": "ネットワークを再構成して Ivy を再起動してください",
+      "en": "Please restart configuring in APP and reboot Ivy"
     }
   },
   "ui_tu_add_app": {
     "index": 184,
     "content": {
-      "en": "Now let's add Ivy to APP",
       "zh": "现在添加 Ivy 至 APP",
-      "jp": "Ivy を APP に追加しましょう"
+      "jp": "Ivy を アプリ に追加しましょう",
+      "en": "Now let's add Ivy to APP"
     }
   },
   "ui_tu_download_app": {
     "index": 185,
     "content": {
-      "en": "[\"\",[0,\"Download #Tuya Smart#\"],[1,\"Download #Yoolax Home#\"]]",
       "zh": "[\"\",[0,\"下载 #涂鸦智能#\"],[1,\"下载 #Yoolax 智能#\"]]",
-      "jp": "[\"\",[0,\"#Tuya Smart# をダウンロード\"],[1,\"#Yoolax Home# をダウンロード\"]]"
+      "jp": "[\"\",[0,\"#Tuya Smart# をダウンロード\"],[1,\"#Yoolax Home# をダウンロード\"]]",
+      "en": "[\"\",[0,\"Download #Tuya Smart#\"],[1,\"Download #Yoolax Home#\"]]"
     }
   },
   "ui_in_system_setting": {
     "index": 186,
     "content": {
-      "en": "In your system setting",
       "zh": "在手机系统设置中",
-      "jp": "システム設定で"
+      "jp": "システム設定で",
+      "en": "In your system setting"
     }
   },
   "ui_enable_ble": {
     "index": 187,
     "content": {
-      "en": "Enable #Bluetooth#",
       "zh": "开启#蓝牙#",
-      "jp": "#Bluetooth# をオンにする"
+      "jp": "#Bluetooth# をオンにする",
+      "en": "Enable #Bluetooth#"
     }
   },
   "ui_touch_right_config": {
     "index": 188,
     "content": {
-      "en": "Touch right to start configuration",
       "zh": "右触并开始配置",
-      "jp": "右にタッチして設定を開始"
+      "jp": "右をタッチして設定を開始",
+      "en": "Touch right to start configuration"
     }
   },
   "ui_manual_calib_remove_pot": {
     "index": 189,
     "content": {
-      "en": "\"The inner pot must be removed before enter manual calibration mode",
       "zh": "进入手动校准模式前必须取下花托",
-      "jp": "手動校正モードに入る前に、内鍋を取り外す必要があります"
+      "jp": "手動校正モードに入る前に、内鍋を取り外す必要があります",
+      "en": "\"The inner pot must be removed before enter manual calibration mode"
     }
   },
   "ui_tu_skip": {
     "index": 190,
     "content": {
-      "en": "You can press the back button three times in a row to skip the tutorial process!",
       "zh": "你可以连按三下后部按钮跳过此教学过程！",
-      "jp": "背面のボタンを3回押すとチュートリアルをスキップできます！"
+      "jp": "背面のボタンを3回押すとチュートリアルをスキップできます！",
+      "en": "You can press the back button three times in a row to skip the tutorial process!"
     }
   }
 }
